@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 public class RandomNbr{
     public static void main(String[] args) {
@@ -8,3 +10,15 @@ public class RandomNbr{
         }
     }
 }
+
+
+
+
+   // List myArrayList = new ArrayList();
+       // myArrayList.add("Kévin" , Age);
+         //       myArrayList.add("Max");
+
+           //     List myArrayList2 = new ArrayList();
+             //   myArrayList2.add(Age);
+               // myArrayList2.add(random.nextInt(max - min) + min);
+                //System.out.println("Prenom" + myArrayList + "Age" + myArrayList2);
